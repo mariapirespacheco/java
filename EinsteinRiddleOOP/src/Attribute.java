@@ -1,0 +1,9 @@
+enum Couleur { ROUGE, VERT, BLANC, JAUNE, BLEU }
+enum Nationalite { ANGLAIS, SUEDOIS, DANOIS, NORVEGIEN, ALLEMAND }
+enum Boisson { THE, CAFE, LAIT, BIERE, EAU }
+enum Cigare { PALL_MALL, DUNHILL, BLENDS, BLUE_MASTER, PRINCE }
+enum Animal { CHIEN, OISEAU, CHAT, CHEVAL, POISSON }
+
+
+
+
